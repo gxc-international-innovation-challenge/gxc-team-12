@@ -47,6 +47,7 @@ Because we were thinking of our solution like a business, a [Business-Model-Canv
 
 After thorough research, we created a [website](https://www.figma.com/proto/01KB7F0Ikml6IViFnFYZsS/Landing-Page?node-id=1%3A2&scaling=scale-down) which illustrates the costs, benefits, and planning and construction of a green wall. The website includes a questionnaire to guide users to the most valuable information, and a forum page for questions that are not answered in the website and to bring a sense of community to those interested in the green walls. In all, the website brings together varying aspects of green walls that one would have to research in multiple blogs and websites. With this website, the user can go from start to finish with their green wall idea.
 
+For a more detailed look and explaination at our prototype after Sprint 2, please visit our [Sprint 2 Release](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Sprint-2-Release) wiki page.
 
 ### Challenge Contribution Value
 
