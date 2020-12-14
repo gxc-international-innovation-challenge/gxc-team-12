@@ -39,11 +39,13 @@ To begin our process of finding a solution to carbon dioxide emissions, we looke
 
 ### Ideation
 
-To begin our process, we created an empathy map, storyboard, and a business model canvas to show our thought process. Through each of these, we illustrated how our business shall be conducted.
+To begin our process, we created an [Empathy Map](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Empathy-Map), in order to get in the mind set of our challenge giver. After we came up with the idea of using green walls we created a [Storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Storyboard) to help us then be in the mind-set of the customer using our digital solution. Now that we had our digital solution we made an [FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/FAQ) to look into the details of our solution and then we create a [Press Release](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Press-Release) to introduce our digital solution to the world.
+
+Because we were thinking of our solution like a business, a [Business-Model-Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Business-Model-Canvas) was created to make sure we had a sustainable business plan. Through each of these processes, we illustrated how our business shall be conducted.
 
 ### Prototype
 
-After thorough research, we created a website which illustrates the costs, benefits, and how to create a green wall. There is also an FAQ page which portrays basic information regarding questions one may have about building a green wall. The website includes a questionnaire to guide users to the most valuable information, and a forum page for questions that are not answered in the website. 
+After thorough research, we created a [website](https://www.figma.com/proto/01KB7F0Ikml6IViFnFYZsS/Landing-Page?node-id=1%3A2&scaling=scale-down) which illustrates the costs, benefits, and planning and construction of a green wall. The website includes a questionnaire to guide users to the most valuable information, and a forum page for questions that are not answered in the website and to bring a sense of community to those interested in the green walls. In all, the website brings together varying aspects of green walls that one would have to research in multiple blogs and websites. With this website, the user can go from start to finish with their green wall idea.
 
 
 ### Challenge Contribution Value
