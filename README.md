@@ -38,10 +38,10 @@ Our team will promote our website through social media, such as Instagram, Twitt
 
 ### Challenge Contribution Value
 
-- [x] Helps contribute to the reduction of CO₂ (While offering monetary benefit as well)
-- [x] Employee driven option
-- [x] Motivates participation
-- [x] Flexibile solution that can fit any budget, even in times of crisis
+[x] Helps contribute to the reduction of CO₂ (While offering monetary benefit as well)
+[x] Employee driven option
+[x] Motivates participation
+[x] Flexibile solution that can fit any budget, even in times of crisis
 
 ## Wiki Navigation
 
