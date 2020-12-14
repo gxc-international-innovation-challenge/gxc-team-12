@@ -6,6 +6,8 @@
 
 ## Challenge Statement
 
+The City of Munich set the goal to reach climate neutrality by 2035. Because of this, the Department of Labor and Economics is looking for solutions to help them reach this goal. With this they ask:
+
 *How can municipalities, through digital solutions, motivate local companies towards climate protection, in times of crisis?*
 
 ## Problem Statement
