@@ -56,6 +56,18 @@ For a more detailed look and explaination at our prototype after Sprint 2, pleas
 - [x] Motivates participation
 - [x] Flexibile solution that can fit any budget, even in times of crisis
 
+## Outlook
+
+One feature that we would have liked to add, but did not have time for was a page describing construction regulations in Munich/Bavaria/Germany. This information would probably need to be more extensively researched than we had time for, plus it would mostly be in German, so only a few members of the group could do this. This information would be especially useful for businesses wanting to create an outdoor green wall themselves without being consulted by a professional group.
+
+Another feature that we did not have time for was a contact page. This is standard for most websites.
+
+The website can very easily be expanded when necessary.
+
+Along with the website, a social media campaign could be integrated with a specific hashtag or challenge. The City of Munich could offer a small grant (maybe 100 Euros) to people to start the construction of their green wall.
+
+This website could be used for people to register themselves or company, apply for the grant, and keep track of their green wall and environmental impact. These features could be implemented in a third sprint.
+
 ## Wiki Navigation
 
 * [Home](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki)
