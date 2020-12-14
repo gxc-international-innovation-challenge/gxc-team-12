@@ -6,8 +6,6 @@
 
 ## Challenge Statement
 
-The City of Munich set the goal to reach climate neutrality by 2035. Because of this, the Department of Labor and Economics is looking for solutions to help them reach this goal. With this they ask:
-
 *How can municipalities, through digital solutions, motivate local companies towards climate protection, in times of crisis?*
 
 ## Problem Statement
@@ -27,6 +25,15 @@ Wolf, Kathleen. _Mental Health & Function_. 2015. https://depts.washington.edu/h
 ## Our Solution
 
 The implementation of green walls in the city of Munich could help contribute to the reduction of CO₂. In order to help achieve this, it is necessary to not only spread the word about green walls, but to also have a way to help people and businesses through the process of creating and building one. Our prototype of a green wall website combines all the information needed to design, build, and maintain a green wall. It also works as a community function, bringing people together who are interested in such a solution for their home or office. It also works to inspire people to learn more about the different kinds of green walls, share experiences, and give an extensive look at the variety of benefits that come with the construction of a green wall.
+## Networking
+Our team will promote our website through social media, such as Instagram, Twitter, and Facebook in order to promote the website to become accessible to the average person. Another way to make this accessible is to collaborate with local home goods stores to create green wall starter packs at low rates which include all the supplies to create one's own green wall. We also are working with the city of Munich, who will add our website to theirs in order to influence businesses to build their own green wall. The website includes pages in which users can interact with producers of the website and with others in order to gain insights about how to create their own green wall. This includes a forum page in which users can post pictures of their green wall, or post questions/comments/concerns about their own building process. This creates a community in which green wall users can come together and promote their own work and influence others to do so as well. 
+
+## Process
+* Research: To begin our process of finding a solution to carbon dioxide emissions, we looked to projects that had been conducted in the past. We found many pages including carbon dioxide calculators, and while we wanted to add this to our prototype, we wanted to create something new. After watching documentaries and reading many articles, we came to the conclusion that a website about green walls would be an easy solution to implement in many businesses.
+* Ideation: To begin our process, we created an empathy map, storyboard, and a business model canvas to show our thought process. Through each of these, we illustrated how our business shall be conducted.
+* Prototype: After thorough research, we created a website which illustrates the costs, benefits, and how to create a green wall. There is also an FAQ page which portrays basic information regarding questions one may have about building a green wall. The website includes a questionnaire to guide users to the most valuable information, and a forum page for questions that are not answered in the website. 
+
+* Research: To begin our process of finding a solution to carbon dioxide emissions, we looked to projects that had been conducted in the past. We found many pages including carbon dioxide calculators, and while we wanted to add this to our prototype, we wanted to create something new. After watching documentaries and reading many articles, we came to the conclusion that a website about green walls would be an easy solution to implement in many businesses.
 
 ### Challenge Contribution Value
 
@@ -35,38 +42,4 @@ The implementation of green walls in the city of Munich could help contribute to
 - [x] Motivates participation
 - [x] Flexibile solution that can fit any budget, even in times of crisis
 
-## Process
 
-
-## Wiki Navigation
-* [Home](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki)
-* [Team](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/About-The-Team)
-  * [Team Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Team-Canvas)
-  * [Ideas for Project](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Ideas)
-    * [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Interviews)
-    * [Links to Idea Research](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Idea-Research-Links)
-    * [Open Questions for Challenge Giver](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Open-Questions)
-* [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Research)
-  * [Best Plants For Green Walls](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Best-Plants-for-Green-Wall) 
-  * [Carbon Footprint Calculator](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Carbon-Footprint-Calculator)
-  * [Costs & Benefits](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Cost-&-Benefits-of-Green-Walls)
-  * [Forum Page Documentation](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Forum-Page-documentation)
-  * [Gallery Examples](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Green-Wall-gallery-(examples))
-  * [Problem Statement](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Problem-Statement)
-  * [Problem Statement for Green Wall](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Problem-Statement-for-Green-Wall)
-  * [Steps for Building a Green Wall](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Steps-For-Building-a-Green-Wall)
-* [Business-Side](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Business-Side)
-  * [Business-Model-Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Business-Model-Canvas)
-  * [Empathy Map](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Empathy-Map)
-  * [FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/FAQ)
-  * [Press Release](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Press-Release)
-  * [Storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Storyboard)
-* [Prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Prototype)
-  * [Class Feedback from Sprint 1](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Notes-on-Prototype)
-  * [Prototype Testing Documentation](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Prototype-Testing-Documentation)
-  * [Sprint 1](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Sprint-1)
-  * [Sprint 2 Release](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Sprint-2-Release)
-  * [Usability Testing](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Usability-Test)
-* [Presentations](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Presentations)
-  * [Final Presentation](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Final-Presentation)
-  * [60 Second Pitch Image](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/60-Second-Pitch-Presentation)
