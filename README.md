@@ -1,8 +1,8 @@
-![Header](https://github.com/gxc-international-innovation-challenge/gxc-team-12/blob/main/pictures/Header.png)
+![Header](/pictures/Header.png)
 
 # GlobalXChanges/Challenges (GXC) International Virtual Innovation Challenge at HM Hochschule München University of Applied Sciences
 
-![logo](https://github.com/gxc-international-innovation-challenge/gxc-team-12/blob/main/pictures/Logos.png)
+![logo](/pictures/Logos.png)
 
 ## Challenge Statement
 
