@@ -33,6 +33,9 @@ The implementation of green walls in the city of Munich could help contribute to
 - [x] Motivates participation
 - [x] Flexibile solution that can fit any budget, even in times of crisis
 
+## Process
+
+
 ## Wiki Navigation
 * [Home](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki)
 * [Team](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/About-The-Team)
