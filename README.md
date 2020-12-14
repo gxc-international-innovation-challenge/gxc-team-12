@@ -33,7 +33,6 @@ Our team will promote our website through social media, such as Instagram, Twitt
 * Ideation: To begin our process, we created an empathy map, storyboard, and a business model canvas to show our thought process. Through each of these, we illustrated how our business shall be conducted.
 * Prototype: After thorough research, we created a website which illustrates the costs, benefits, and how to create a green wall. There is also an FAQ page which portrays basic information regarding questions one may have about building a green wall. The website includes a questionnaire to guide users to the most valuable information, and a forum page for questions that are not answered in the website. 
 
-* Research: To begin our process of finding a solution to carbon dioxide emissions, we looked to projects that had been conducted in the past. We found many pages including carbon dioxide calculators, and while we wanted to add this to our prototype, we wanted to create something new. After watching documentaries and reading many articles, we came to the conclusion that a website about green walls would be an easy solution to implement in many businesses.
 
 ### Challenge Contribution Value
 
