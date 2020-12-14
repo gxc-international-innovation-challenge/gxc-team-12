@@ -24,3 +24,13 @@ Wolf, Kathleen. _Mental Health & Function_. 2015. https://depts.washington.edu/h
 
 ## Our Solution
 
+The implementation of green walls in the city of Munich could help contribute to the reduction of CO₂. In order to help achieve this, it is necessary to not only spread the word about green walls, but to also have a way to help people and businesses through the process of creating and building one. Our prototype of a green wall website combines all the information needed to design, build, and maintain a green wall. It also works as a community function, bringing people together who are interested in such a solution for their home or office. It also works to inspire people to learn more about the different kinds of green walls, share experiences, and give an extensive look at the variety of benefits that come with the construction of a green wall.
+
+### Challenge Contribution Value
+
+- [x] Helps contribute to the reduction of CO₂ (While offering monetary benefit as well)
+- [x] Employee driven option
+- [x] Motivates participation
+- [x] Flexibile solution that can fit any budget, even in times of crisis
+
+
