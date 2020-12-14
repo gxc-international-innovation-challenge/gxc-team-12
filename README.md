@@ -1,9 +1,7 @@
-# gxc-team-12
+![Header](https://github.com/gxc-international-innovation-challenge/gxc-team-12/blob/main/pictures/Header.png)
 
-## Assignment Sprint 2
+# Green Wall Website
 
-[Sprint 2 Release Wiki](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Sprint-2-Release)
+## Challenge Statement
 
-[Sprint 1 Prototype Testing Documentation](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Prototype-Testing-Documentation)
-
-[Usability Test Documentation](https://github.com/gxc-international-innovation-challenge/gxc-team-12/wiki/Usability-Test)
+*How can municipalities, through digital solutions, motivate local companies towards climate protection, in times of crisis?*
